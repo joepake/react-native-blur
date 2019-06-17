@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 
 const OVERLAY_COLORS = {
-  light: 'rgba(255, 255, 255, 0.2)',
+  light: 'rgba(0, 0, 0, 0)',
   xlight: 'rgba(255, 255, 255, 0.75)',
   dark: 'rgba(16, 12, 12, 0.64)',
 };
