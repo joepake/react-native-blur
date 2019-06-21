@@ -10,7 +10,7 @@ import {
 const OVERLAY_COLORS = {
   light: 'rgba(0, 0, 0, 0)',
   xlight: 'rgba(255, 255, 255, 0.75)',
-  dark: 'rgba(16, 12, 12, 0.64)',
+  dark: 'rgba(0, 0, 0, 0)',
 };
 
 class BlurView extends Component {
